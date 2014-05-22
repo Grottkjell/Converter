@@ -1,0 +1,27 @@
+p|asd|asd
+p|asdasfd|huehuehue
+P|Carl Gustaf|Bernadotte
+T|0768-101801|08-101801
+A|Drottningholms slott|Stockholm|10001
+F|Victoria|1977
+A|Haga Slott|Stockholm|10002
+F|Carl Philip|1979
+T|0768-101802|08-101802
+A|Haga Slott|Stockholm|10002
+P|Barack|Obama
+A|1600 Pennsylvania Avenue|Washington, D.C
+P|Ove|Widell
+A|Byggmästaregatan 11|Färjestaden|38696
+T|0702137979|048531101
+F|Jenny|1976
+A|Ellebergavägen 1 A|Färjestaden|38634
+FJimmy|1978
+A|asd|
+P|
+A|dsa
+A|Sagovägen 14|Färjestaden|38696
+p|emriklol|lundström
+p|derpface|hurr
+f|heuhuehue|223232
+f|asdasd|dfsdf
+F|asd|asd23847
